@@ -43,7 +43,7 @@ headers = {
     'Referer': 'https://www.opentix.life/'
 }
 
-# 設定要爬取的頁數範圍（測試階段先抓第 1 頁，確認無誤可改為 while 迴圈抓全部）
+# 設定要爬取的頁數範圍（測試階段先抓第 1 頁，確認無誤可改為 while 迴圈抓全部的）
 max_pages = 1
 all_records = []
 
