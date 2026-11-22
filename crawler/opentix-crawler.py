@@ -10,7 +10,7 @@ import pymysql
 db_config = {
     'host': 'localhost',
     'user': 'root',          # 請換成你的 MySQL 帳號
-    'password': 'password',  # 請換成你的 MySQL 密碼
+    'password': '1234',  # 請換成你的 MySQL 密碼
     'database': 'opentix_db',
     'charset': 'utf8mb4'
 }
