@@ -1,7 +1,7 @@
 # opentix-project
 
 
-`wsl`  
+`wsl` or `colima start`  
 `cd ~`  
 `git clone https://github.com/ianl20230303/opentix-project.git`  
 `cd opentix-project/`  
